@@ -1,0 +1,10 @@
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\bin\Debug\Chapter05.exe
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\bin\Debug\Chapter05.pdb
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\obj\Debug\Chapter05.csprojAssemblyReference.cache
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\obj\Debug\Chapter05.Form1.resources
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\obj\Debug\Chapter05.Properties.Resources.resources
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\obj\Debug\Chapter05.csproj.GenerateResource.cache
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\obj\Debug\Chapter05.csproj.CoreCompileInputs.cache
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+C:\Users\Programming13\source\repos\Chapter05\Chapter05\obj\Debug\Chapter05.pdb
